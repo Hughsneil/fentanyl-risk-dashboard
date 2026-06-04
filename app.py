@@ -23,7 +23,7 @@ st.markdown("""
     }
 
     .block-container {
-        padding-top: 0.8rem;
+        padding-top: 3rem;
         padding-bottom: 0.5rem;
         padding-left: 1.2rem;
         padding-right: 1.2rem;
